@@ -18,7 +18,7 @@ Acotación: En esta fase definimos la idea de que es lo necesitamos y proyectar 
 ### **Modelo IPO**
 Este lo utilizamos para darle dominio a nuestro problema como los pasos anteriores pero esta vez de una manera mas visual.
 
-![modelo ipo](modeloipo.jpg)
+![modelo ipo](https://drive.google.com/drive/folders/1Vq1aG3Q1dqJP4FEY2lN2XkqufSGfQ9Mv)
 
 # **Etapa #2: Diseño de la solución del problema**
 
