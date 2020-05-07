@@ -42,7 +42,8 @@ Pseudocódigo:
 
 Diagrama de Flujo:
 
-![Diagrama de flujo](diagramadeflujo.png)
+![diagramadeflujo](https://user-images.githubusercontent.com/63470026/81332956-37838f00-907a-11ea-9ed6-78acb5846889.png)
+
 
 ### **Representación Textual**
 
