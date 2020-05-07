@@ -1,0 +1,9 @@
+# TRABAJO PRACTICO 00-HOLA MUNDO
+
+## PROCEDIMIENTO
+
+Primero seleccionamos e instalamos el editor de codigo (visual studio code). luego selecionamos, instalamos y configuramos el compilador de **C++** (MinGW). Una vez configurado y funcionando todas las herramientas necesarias procedemos a escribir el codigo, el cual lo iniciamos con una breve descripcion del titulo, mi nobre y apellido y la ultima fecha de edicion. El paso anterior lo realizaremos entre los sigueintes caracteres /* descripcion breve */, lo que permite que el compilador no lo lea pero que sin embargo forme parte del codigo.
+
+Empezamos el codigo con un #include que va a incluir en el proceso de precompilacion las instruciones que esten dentro de nuestro codigo. Luego indicamos la funcion "main()" y abrimos las llaves que incluyen el bloque de codigo el cual va a indicar que hacer. Una vez que terminamos el pasamos a compilar, para eso lo hago desde la consola o cmd (para windows). Lo primero que hacemos es seleccionar el directorio en el cual esta nuestra carpeta "00-hola mundo", para eso utilizamos el comando cd (change directory) y pegamos la direccion donde esta la carpeta. Aplicamos el comando para compilar, en mi caso es g++ -o hello hello.cpp, el cual nos va a generar la aplicacion hello.exe (el ejecutable). citamos "hello.exe" y le damos a enter. Si todo el programa nos mostrara la frase que le hayamos indicado. 
+
+Cuando tengamos funcionando el programa, el paso siguiente es generar el output.txt, lo generaremos con el ejecutable de la siguiente manera "hello.exe > output.txt" y enter. Automaticamente se genero el archivo de texto en el directorio que seleccionamos anteriormente. Para ver el archivo de texto generado podemos abrirlo en el directorio o en la misma consola podemos poner "type output.txt" y va a generar ese texto. Ya logrado el objetivo principal del trabajo queda subir la carpeta a nuestro repositorio.
