@@ -1,4 +1,4 @@
-# ALGORITMOS Y ESTRUCTURAS DE DATOS
+# AED
 - algoritmos y estructuras de datos
 - curso:K1051
 - año de cursada : primero
